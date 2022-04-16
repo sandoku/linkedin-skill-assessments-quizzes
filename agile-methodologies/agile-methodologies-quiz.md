@@ -565,8 +565,8 @@
 
 #### Q79. Which statement best describes Agile, Lean, and Six Sigma?
 
-- [ ] They are strategies for delivering customer value.
-- [ ] They were pioneered by Toyota.
+- [ ] They are strategies for delivering customer value. ★
+- [ ] They were pioneered by Toyota. ✘
 - [ ] They are strategies for discovering what the customer wants.
 - [ ] They are derived from statistical process control.
 
